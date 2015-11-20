@@ -6,7 +6,7 @@
 [![Open Issues](http://img.shields.io/github/issues/hpi-swt2/event-und-raumplanung.svg)](https://github.com/hpi-swt2/event-und-raumplanung/issues?q=is%3Aopen+is%3Aissue)
 [![License](http://img.shields.io/badge/license-AGPL-blue.svg)](https://github.com/hpi-swt2/event-und-raumplanung/blob/master/LICENSE)
 
-[![SM](http://imgh.us/sm.svg) ](localhost:8000)
+[![SM](http://imgh.us/sm.svg) ](http://localhost:8000/)
 
 ![](http://imgh.us/axolotl.svg) ![](http://imgh.us/biber.svg) ![](http://imgh.us/clown.svg) ![](http://imgh.us/delfin.svg) ![](http://imgh.us/elch.svg)
 
