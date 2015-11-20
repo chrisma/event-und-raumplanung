@@ -8,7 +8,7 @@
 
 [![SM](http://imgh.us/sm.svg) ](http://localhost:8000/)
 
-![](https://img.shields.io/badge/ScrumLint -- Team A-87.2-green.svg) ![Team Biber](https://img.shields.io/badge/ScrumLint -- Team B-77.1-yellowgreen.svg) ![](https://img.shields.io/badge/ScrumLint -- Team C-76.4-yellowgreen.svg) ![](https://img.shields.io/badge/ScrumLint -- Team D-79.2-yellowgreen.svg) ![](https://img.shields.io/badge/ScrumLint -- Team B-77.8-yellowgreen.svg)
+![](https://img.shields.io/badge/ScrumLint -- Team A-87.2-green.svg) [![Team Biber](https://img.shields.io/badge/ScrumLint -- Team B-77.1-yellowgreen.svg)](http://localhost:8000/sprint/4/team/Biber) ![](https://img.shields.io/badge/ScrumLint -- Team C-76.4-yellowgreen.svg) ![](https://img.shields.io/badge/ScrumLint -- Team D-79.2-yellowgreen.svg) ![](https://img.shields.io/badge/ScrumLint -- Team B-77.8-yellowgreen.svg)
 
 # Building
 Branch      | Status
